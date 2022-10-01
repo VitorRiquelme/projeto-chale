@@ -102,3 +102,10 @@ ul#nav a:hover{
     width: 226px;
     height: 164px;
 }
+#principal{
+    background-color: red;
+    float: left;
+}
+#lateral{
+    float: right;
+}
